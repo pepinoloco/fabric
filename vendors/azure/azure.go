@@ -3,6 +3,8 @@ package azure
 import (
 	"strings"
 
+	"fabric/common"
+	"fabric/vendors/openai"
 	goopenai "github.com/sashabaranov/go-openai"
 )
 

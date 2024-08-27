@@ -2,6 +2,7 @@ package db
 
 import (
 	"fmt"
+	"fabric/common"
 )
 
 type Sessions struct {

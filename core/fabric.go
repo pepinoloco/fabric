@@ -4,12 +4,22 @@ import (
 	"bytes"
 	"fmt"
 	"github.com/atotto/clipboard"
+	"fabric/common"
+	"fabric/db"
+	"fabric/vendors/anthropic"
+	"fabric/vendors/azure"
+	"fabric/vendors/gemini"
+	"fabric/vendors/groc"
+	"fabric/vendors/ollama"
+	"fabric/vendors/openai"
+	"fabric/youtube"
 	"github.com/pkg/errors"
 	"os"
 	"strconv"
 	"strings"
 )
 
+const DefaultPatternsGitRepoUrl = "https://fabric.git"
 const DefaultPatternsGitRepoFolder = "patterns"
 
 func NewFabric(db *db.Db) (ret *Fabric, err error) {

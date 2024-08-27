@@ -7,6 +7,7 @@ import (
 	"net/url"
 	"time"
 
+	"fabric/common"
 	"github.com/samber/lo"
 
 	ollamaapi "github.com/ollama/ollama/api"

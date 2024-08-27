@@ -8,6 +8,7 @@ import (
 	"strings"
 	"testing"
 
+	"fabric/common"
 	"github.com/stretchr/testify/assert"
 )
 

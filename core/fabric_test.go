@@ -4,6 +4,7 @@ import (
 	"os"
 	"testing"
 
+	"fabric/db"
 )
 
 func TestNewFabric(t *testing.T) {

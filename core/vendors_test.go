@@ -2,6 +2,7 @@ package core
 
 import (
 	"bytes"
+	"fabric/common"
 	"testing"
 )
 

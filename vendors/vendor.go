@@ -2,6 +2,7 @@ package vendors
 
 import (
 	"bytes"
+	"fabric/common"
 )
 
 type Vendor interface {

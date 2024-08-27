@@ -2,6 +2,9 @@ package core
 
 import (
 	"fmt"
+	"fabric/common"
+	"fabric/db"
+	"fabric/vendors"
 )
 
 type Chatter struct {

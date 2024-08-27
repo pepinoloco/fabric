@@ -3,6 +3,7 @@ package core
 import (
 	"context"
 	"fmt"
+	"fabric/vendors"
 	"sync"
 )
 

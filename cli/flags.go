@@ -7,6 +7,7 @@ import (
 	"io"
 	"os"
 
+	"fabric/common"
 	"github.com/jessevdk/go-flags"
 )
 

@@ -4,6 +4,7 @@ import (
 	"os"
 	"testing"
 
+	"fabric/db"
 	"github.com/stretchr/testify/assert"
 )
 
