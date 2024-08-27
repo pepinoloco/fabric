@@ -7,8 +7,6 @@ import (
 	"strconv"
 	"strings"
 
-	"core"
-	"db"
 )
 
 // Cli Controls the cli. It takes in the flags and runs the appropriate functions

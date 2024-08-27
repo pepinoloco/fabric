@@ -2,7 +2,6 @@ package db
 
 import (
 	"fmt"
-	"common"
 )
 
 type Sessions struct {

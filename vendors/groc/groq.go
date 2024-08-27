@@ -1,7 +1,6 @@
 package groc
 
 import (
-	"vendors/openai"
 )
 
 func NewClient() (ret *Client) {

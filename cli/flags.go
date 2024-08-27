@@ -7,7 +7,6 @@ import (
 	"io"
 	"os"
 
-	"common"
 	"github.com/jessevdk/go-flags"
 )
 

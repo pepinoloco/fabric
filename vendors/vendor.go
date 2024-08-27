@@ -2,7 +2,6 @@ package vendors
 
 import (
 	"bytes"
-	"common"
 )
 
 type Vendor interface {

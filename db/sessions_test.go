@@ -3,7 +3,6 @@ package db
 import (
 	"testing"
 
-	"common"
 )
 
 func TestSessions_GetOrCreateSession(t *testing.T) {

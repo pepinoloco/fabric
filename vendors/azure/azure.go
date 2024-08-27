@@ -3,8 +3,6 @@ package azure
 import (
 	"strings"
 
-	"common"
-	"vendors/openai"
 	goopenai "github.com/sashabaranov/go-openai"
 )
 

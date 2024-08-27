@@ -4,7 +4,6 @@ import (
 	"os"
 	"testing"
 
-	"db"
 	"github.com/stretchr/testify/assert"
 )
 

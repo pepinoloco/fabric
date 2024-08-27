@@ -2,7 +2,6 @@ package core
 
 import (
 	"bytes"
-	"common"
 	"testing"
 )
 

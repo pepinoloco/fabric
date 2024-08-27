@@ -6,7 +6,6 @@ import (
 	"fmt"
 	"io"
 
-	"common"
 	"github.com/samber/lo"
 	"github.com/sashabaranov/go-openai"
 	goopenai "github.com/sashabaranov/go-openai"
